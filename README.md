@@ -44,6 +44,10 @@ It's important to look not only at the performance, happiness, successes and fru
   - Are they as autonomous as expected?
   - Are they actively mentoring / helping other engineers?
   - Are they noticing problems with code on their own, or only in response to bugs?
+- Is the team modeling inclusive behavior?
+  - Are people delivering feedback to each other, even when it's difficult?
+  - Are people receiving feedback well?
+  - When was the last time your team delivered feedback to you *about* you?
   
 
 # Individual Performance Tracking

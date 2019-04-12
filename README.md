@@ -36,6 +36,10 @@ It's important to look not only at the performance, happiness, successes and fru
   - Are updates succinct and to the point?
   - Are team members providing useful information, or just rattling off ticket numbers?
   - Are team members remembering to ask for help / make the team aware of blockers when appropriate?
+- Are team retros useful?
+  - Is the team doing a good job of raising difficult issues, mistakes, etc but in a blameless manner?
+  - Is the team comfortable with the manager in the room, or do they prefer the space to talk without them there?
+  - Are the takeaways from retros actually being put into action / followed?
 - Are the team's more senior engineers doing all of the things expected of them besides writing good code?
   - Are they as autonomous as expected?
   - Are they actively mentoring / helping other engineers?

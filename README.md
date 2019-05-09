@@ -7,6 +7,7 @@ For the time being, it is *not* meant to be a reading list or a repository of li
 - [Introduction](#introduction)
 - [Team Performance Tracking / Pulse Checking](#team-performance-tracking)
 - [Individual Performance Tracking / Pulse Checking](#individual-performance-tracking)
+- [Organizational Performance Tracking / Pulse Checking](#organizational-performance-tracking)
 
 # Introduction
 The job of an Engineering Manager varies a great deal due to a number of factors from team structure to industry to simple decisionmaking by the hiring manager (e.g. "should an engineering manager be writing code or not?").
@@ -47,7 +48,7 @@ It's important to look not only at the performance, happiness, successes and fru
 - Is the team modeling inclusive behavior?
   - Are people delivering feedback to each other, even when it's difficult?
   - Are people receiving feedback well?
-  - When was the last time your team delivered feedback to you *about* you?
+  - When was the last time your team delivered feedback to you *about* you? (If it has been a while, solicit some)
   
 
 # Individual Performance Tracking
@@ -68,3 +69,20 @@ Of course keeping a pulse on individual employees is also important. Below is a 
   - Are they looking to progress, or more interested in simply having stability?
   - Do they feel the career ladder / expectations of their current/next role are clear?
   - Do they feel supported in being able to learn/do those things?
+- Do they feel amply supported by their teammates?
+- Do they feel amply supported by their manager?
+
+
+# Organizational Performance Tracking
+
+- How many team members in your org are trained to conduct interviews?
+- Are you satisfied that your interview process is effectively vetting/evaluating candidates on the skills your org is looking for?
+- Do you know who your stars are?
+  - What are you doing to support them and propel them forward?
+  - Are they/you leveraging their great performance to make the team around them better?
+- Do you know who's struggling, not just on your team but on others?
+  - What's your plan to help them out of the rut, and have you communicated it?
+  - What's their plan to get out of the rut?
+- What upcoming promotions might your organization have in the next few months?
+  - If you have some, have you calibrated and looked to ensure they're being promoted on a comparable timeline to similarly performing peers?
+  - If you have none, what can/should you be doing to help folks in the organization level up?

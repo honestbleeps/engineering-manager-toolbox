@@ -3,6 +3,9 @@ The Engineering Managers' toolbox is meant to be a collaborative compendium of t
 
 For the time being, it is *not* meant to be a reading list or a repository of links to tools, because several of those already exist. Instead, this is meant to primarily be prose and bulleted lists - a reference that Engineering Managers can go back to in order to ensure they're asking the right questions and keeping a pulse on all aspects of their teams' work.
 
+I'd eventually like to link some of the lines/questions here to relevant articles or guides (either within this repo, or external) that elaborate on the "what to do about answers to question X", right now it's mostly just a list of questions to ask oneself
+
+
 ### Table of Contents
 - [Introduction](#introduction)
 - [Team Performance Tracking / Pulse Checking](#team-performance-tracking)

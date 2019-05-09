@@ -77,10 +77,10 @@ Of course keeping a pulse on individual employees is also important. Below is a 
 
 - How many team members in your org are trained to conduct interviews?
 - Are you satisfied that your interview process is effectively vetting/evaluating candidates on the skills your org is looking for?
-- Do you know who your stars are?
+- Do you know who the organization's stars are, even if they're on other teams?
   - What are you doing to support them and propel them forward?
   - Are they/you leveraging their great performance to make the team around them better?
-- Do you know who's struggling, not just on your team but on others?
+- Do you know who's struggling, even if they're on other teams?
   - What's your plan to help them out of the rut, and have you communicated it?
   - What's their plan to get out of the rut?
 - What upcoming promotions might your organization have in the next few months?

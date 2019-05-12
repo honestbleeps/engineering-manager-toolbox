@@ -1,5 +1,5 @@
-# engineering-manager-toolbox
-The Engineering Managers' toolbox is meant to be a collaborative compendium of the things that Engineering Managers should remember to pay attention to over the course of a given time period. This is a living document, starting out and being shared earlier than I'd normally share something like this - so expect it to be a bit brainstormy, a bit unrefined at the start.
+# Engineering Manager Toolbox
+The Engineering Manager toolbox is meant to be a collaborative compendium of the things that Engineering Managers should remember to pay attention to over the course of a given time period. This is a living document, starting out and being shared earlier than I'd normally share something like this - so expect it to be a bit brainstormy, a bit unrefined at the start.
 
 For the time being, it is *not* meant to be a reading list or a repository of links to tools, because several of those already exist. Instead, this is meant to primarily be prose and bulleted lists - a reference that Engineering Managers can go back to in order to ensure they're asking the right questions and keeping a pulse on all aspects of their teams' work.
 

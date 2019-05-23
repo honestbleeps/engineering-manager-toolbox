@@ -52,6 +52,11 @@ It's important to look not only at the performance, happiness, successes and fru
   - Are people delivering feedback to each other, even when it's difficult?
   - Are people receiving feedback well?
   - When was the last time your team delivered feedback to you *about* you? (If it has been a while, solicit some)
+  - Are team members amplifying the voices of others?
+  - Is there equity in both contribution and acceptance of ideas on the team?
+  - Are team members soliciting the opinions and voices of others?
+  - For managers with remote employees: Are considerations being made to ensure remote voices are heard regularly?
+  
   
 
 # Individual Performance Tracking

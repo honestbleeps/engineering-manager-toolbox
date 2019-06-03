@@ -15,3 +15,4 @@ Disclosure: Amazon links may have an affiliate tag. I'd like to donate whatever 
 - [how to size and assess teams](https://firstround.com/review/how-to-size-and-assess-teams-from-an-eng-lead-at-stripe-uber-and-digg/)
 - [how to improve, not kill, the annual performance review](https://www.radicalcandor.com/blog/improve-annual-performance-review/)
 - [Diversity doesn't stick without inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
+- [Why your efforts to make your company inclusive aren't working](https://chelseatroy.com/2018/05/24/why-your-efforts-to-make-your-company-inclusive-arent-working/)

@@ -49,12 +49,10 @@ It's important to look not only at the performance, happiness, successes and fru
   - Are they actively mentoring / helping other engineers?
   - Are they noticing problems with code on their own, or only in response to bugs?
 - Is the team modeling inclusive behavior?
-  - Are people delivering feedback to each other, even when it's difficult?
-  - Are people receiving feedback well?
-  - When was the last time your team delivered feedback to you *about* you? (If it has been a while, solicit some)
   - Are team members amplifying the voices of others?
   - Is there equity in both contribution and acceptance of ideas on the team?
   - Are team members soliciting the opinions and voices of others?
+  - When there is disagreement in a team meeting, is the team respectfully self-moderating?
   - For managers with remote employees: Are considerations being made to ensure remote voices are heard regularly?
   
   
@@ -79,6 +77,16 @@ Of course keeping a pulse on individual employees is also important. Below is a 
   - Do they feel supported in being able to learn/do those things?
 - Do they feel amply supported by their teammates?
 - Do they feel amply supported by their manager?
+- Do they model inclusive behavior?
+  - Feedback:
+    - Are people delivering feedback to each other, even when it's difficult?
+    - Are people receiving feedback well?
+    - When was the last time your team delivered feedback to you *about* you? (If it has been a while, solicit some)
+  - Communication:
+    - Do they interrupt others? If so, do they notice and return the floor to those they interrupted?
+    - Do they notice when others interrupt, and return the floor to the original speaker?
+    - Do they acknowledge and amplify the contributions of others?
+    - Are they about their use of pronouns in examples, documentation, requests, etc? e.g. using "they" rather than "he" or "she"?
 
 
 # Organizational Performance Tracking

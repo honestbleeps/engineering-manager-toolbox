@@ -68,7 +68,8 @@ Of course keeping a pulse on individual employees is also important. Below is a 
 - What parts of the codebase do they think could use some work?
 - What is their opinion on current processes
   - Are tickets well-refined / described from the start?
-  - Is QA adequately up to speed on the tool / testing well?
+  - Is QA adequately up to speed on the tools?
+  - Are QA and the relevant engineer(s) collaborating appropriately on testing strategy?
   - Are deployments smooth, or frustrating?
 - How do they feel they're progressing in their career
   - What's their next career step?
@@ -80,7 +81,7 @@ Of course keeping a pulse on individual employees is also important. Below is a 
 - Do they model inclusive behavior?
   - Feedback:
     - Are people delivering feedback to each other, even when it's difficult?
-    - Are people receiving feedback well?
+    - Are people receiving feedback gracefully?
     - When was the last time your team delivered feedback to you *about* you? (If it has been a while, solicit some)
   - Communication:
     - Do they interrupt others? If so, do they notice and return the floor to those they interrupted?

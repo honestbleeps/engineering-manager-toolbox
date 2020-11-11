@@ -26,8 +26,10 @@ Some of the things you'll find listed here (e.g. Velocity) may be obvious, and o
 It's important to look not only at the performance, happiness, successes and frustrations of each of your individual teammates, but to also zoom out and see what the team looks like as a whole.  The following are some things you'll want to check in on, perhaps monthly or quarterly:
 
 - Velocity - has it changed from prior months/quarters?
-- Dev environment setup
+- Dev environment and setup
   - Do you have a README in each repo for setting up a local environment to start developing?
+    - Is there a consistent format to that README across repos that includes common details you want (e.g. setup insructions, deployment pipeline details, integration testing details, etc)
+  - Are you hearing / noticing mentions of issues with the dev environment in meetups? Does it justify carving out some time for the team to clean things up?
   - Even if you haven't onboarded a new engineer recently, can you get a fresh laptop from IT and run through the instructions on getting a local environment up?
     - Are the instructions still valid?
     - Are there bugs? 
@@ -35,8 +37,8 @@ It's important to look not only at the performance, happiness, successes and fru
 - Deployments - if you're not on a CI/CD pipeline, it's worth looking at a few things:
   - How much time are deploys typically taking?
   - How often are deploys being rolled back?
-  - How often are issues coming up during deploys (e.g. environment variable changes slipping through the cracks, migrations not run, etc)?
-- Are team standups still useful?
+  - How often are repeat issues coming up during deploys (e.g. environment variable changes slipping through the cracks, migrations not run, etc)?
+- Are team standups still useful and accomplishing the intended goal?
   - Are updates succinct and to the point?
   - Are team members providing useful information, or just rattling off ticket numbers?
   - Are team members remembering to ask for help / make the team aware of blockers when appropriate?

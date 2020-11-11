@@ -16,3 +16,5 @@ Disclosure: Amazon links may have an affiliate tag. I'd like to donate whatever 
 - [how to improve, not kill, the annual performance review](https://www.radicalcandor.com/blog/improve-annual-performance-review/)
 - [Diversity doesn't stick without inclusion](https://hbr.org/2017/02/diversity-doesnt-stick-without-inclusion)
 - [Why your efforts to make your company inclusive aren't working](https://chelseatroy.com/2018/05/24/why-your-efforts-to-make-your-company-inclusive-arent-working/)
+- [How to give and get better code reviews](https://medium.com/hackernoon/how-to-give-and-get-better-code-reviews-e011c3cda55e)
+- [On Code Review](https://medium.com/@9len/on-code-review-16ea85f7c585)

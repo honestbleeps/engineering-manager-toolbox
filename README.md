@@ -9,6 +9,6 @@ While this toolbox *may* offer some prescribed solutions to specific challenges,
 
 Some of what you'll find in here may be obvious - the idea isn't for every line item here to teach something new. Instead, it's meant to be as complete a reference as possible so that in your rare moments of downtime, you can make productive use of that time by checking in on the vital signs for your employees, teams and organization.
 
-- [Pulse Checking](pulse-checking.md)
-- [Meeting Templates](meeting-templates/)
-- [Reading List](READING.md)
+- [Pulse Checking](pulse-checking.md) - an outline of things to check on with your team(s) when you have a few moments of downtime
+- [Meeting Templates](meeting-templates/) - a list of common, useful meetings that you can have with your team, and templates for doing so
+- [Reading List](READING.md) - Yet Another Recommended Reading List(tm)

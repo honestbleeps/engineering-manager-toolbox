@@ -11,4 +11,5 @@ Some of what you'll find in here may be obvious - the idea isn't for every line 
 
 - [Pulse Checking](pulse-checking.md) - an outline of things to check on with your team(s) when you have a few moments of downtime
 - [Meeting Templates](meeting-templates/) - a list of common, useful meetings that you can have with your team, and templates for doing so
+- [Meeting Guides](meeting-templates/) - some very basic guides to serve as a north star for the goal(s) of your recurring meetings
 - [Reading List](READING.md) - Yet Another Recommended Reading List(tm)

@@ -1,4 +1,5 @@
 # Engineering Manager Toolbox
+
 The Engineering Manager toolbox is meant to be a set of useful tools for starting, running and/or getting to know your engineering team(s). It's meant to serve not as a rigid guide for how to run a team, but as a set of tools that you can use when applicable and modify for your needs.
 
 This is meant to be a constantly evolving document. I started it out and shared it much earlier than I'd normally share something like this - so expect it to be a bit brainstormy, a bit unrefined at the start.
@@ -13,3 +14,5 @@ Some of what you'll find in here may be obvious - the idea isn't for every line 
 - [Meeting Templates](meeting-templates/) - a list of common, useful meetings that you can have with your team, and templates for doing so
 - [Meeting Guides](meeting-guides/) - some very basic guides to serve as a north star for the goal(s) of your recurring meetings
 - [Reading List](reading-list.md) - Yet Another Recommended Reading List(tm)
+
+Yeah, but [why did you make this?](about.md)

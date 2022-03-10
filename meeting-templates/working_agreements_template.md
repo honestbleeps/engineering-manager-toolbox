@@ -70,7 +70,7 @@ Suggested topics:
     * What do we do when the build is broken?
     * When do we (and when do we not) make changes to an in-progress release (e.g. hotfixes, changes to an RC, rollbacks, etc)
 
- Team logistics
+* Team logistics
     * How do we prefer to communicate status updates outside of standup?
     * How is the team kept informed of time off?
     * Is there an oncall rotation?
